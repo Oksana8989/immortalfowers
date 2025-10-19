@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<Aps>
+
+
+-<Group>
+
+
+-<Page PaperTray="0" Height="842" Width="595">
+
+
+-<Canvas>
+
+
+-<Canvas>
+
+
+-<Clip>
+
+
+-<Path FillMode="Winding">
+
+
+-<PathFigure IsClosed="True">
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842" X="0"/>
+
+<Point Y="-0.25" X="0"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="0"/>
+
+<Point Y="-0.25" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="595.5"/>
+
+<Point Y="842" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842" X="595.5"/>
+
+<Point Y="842" X="0"/>
+
+</PolyLine>
+
+</PathFigure>
+
+</Path>
+
+</Clip>
+
+
+-<Canvas>
+
+
+-<Clip>
+
+
+-<Path FillMode="Alternate">
+
+
+-<PathFigure IsClosed="True">
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="0"/>
+
+<Point Y="-0.25" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="595.5"/>
+
+<Point Y="842" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842" X="595.5"/>
+
+<Point Y="842" X="0"/>
+
+</PolyLine>
+
+</PathFigure>
+
+</Path>
+
+</Clip>
+
+
+-<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 842">
+
+
+-<Brush>
+
+<SolidBrush Color="#FFFFFFFF"/>
+
+</Brush>
+
+
+-<PathFigure IsClosed="True">
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842.25" X="0"/>
+
+<Point Y="842.25" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842.25" X="595.5"/>
+
+<Point Y="0" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="0" X="595.5"/>
+
+<Point Y="0" X="0"/>
+
+</PolyLine>
+
+</PathFigure>
+
+</Path>
+
+</Canvas>
+
+
+-<Canvas>
+
+
+-<Clip>
+
+
+-<Path FillMode="Alternate">
+
+
+-<PathFigure IsClosed="True">
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="0"/>
+
+<Point Y="-0.25" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="-0.25" X="595.5"/>
+
+<Point Y="842" X="595.5"/>
+
+</PolyLine>
+
+
+-<PolyLine LineColor="#FF000000">
+
+<Point Y="842" X="595.5"/>
+
+<Point Y="842" X="0"/>
+
+</PolyLine>
+
+</PathFigure>
+
+</Path>
+
+</Clip>
+
+</Canvas>
+
+</Canvas>
+
+</Canvas>
+
+</Page>
+
+</Group>
+
+</Aps>
