@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Aps>
+	<Group>
+		<Page Width="595" Height="842" PaperTray="0">
+			<Canvas>
+				<Canvas>
+					<Clip>
+						<Path FillMode="Winding">
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="842" />
+									<Point X="0" Y="-0.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="-0.25" />
+									<Point X="595.5" Y="-0.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.5" Y="-0.25" />
+									<Point X="595.5" Y="842" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.5" Y="842" />
+									<Point X="0" Y="842" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Clip>
+					<Canvas>
+						<Clip>
+							<Path FillMode="Alternate">
+								<PathFigure IsClosed="True">
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="-0.25" />
+										<Point X="595.5" Y="-0.25" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.5" Y="-0.25" />
+										<Point X="595.5" Y="842" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.5" Y="842" />
+										<Point X="0" Y="842" />
+									</PolyLine>
+								</PathFigure>
+							</Path>
+						</Clip>
+						<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 842">
+							<Brush>
+								<SolidBrush Color="#FFFFFFFF" />
+							</Brush>
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="842.25" />
+									<Point X="595.5" Y="842.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.5" Y="842.25" />
+									<Point X="595.5" Y="0" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.5" Y="0" />
+									<Point X="0" Y="0" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Canvas>
+					<Canvas>
+						<Clip>
+							<Path FillMode="Alternate">
+								<PathFigure IsClosed="True">
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="-0.25" />
+										<Point X="595.5" Y="-0.25" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.5" Y="-0.25" />
+										<Point X="595.5" Y="842" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.5" Y="842" />
+										<Point X="0" Y="842" />
+									</PolyLine>
+								</PathFigure>
+							</Path>
+						</Clip>
+					</Canvas>
+				</Canvas>
+			</Canvas>
+		</Page>
+	</Group>
+</Aps>
